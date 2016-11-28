@@ -1,0 +1,6 @@
+{
+  "name": "Lodworkshop-project",
+  "tagline": "",
+  "body": "#README file for *locations.csv*\r\nThe locations.csv file maps location names to geo coordinates formatted \"latitude, longitude\".\r\n* Item 1\r\n* Item 2\r\n  * Item 2a\r\n  * Item 2b",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
